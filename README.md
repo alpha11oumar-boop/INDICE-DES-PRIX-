@@ -1,4 +1,4 @@
-# Indices de prix immobiliers hédoniques — Hauts-de-France (2014–2025)
+# Indices de prix immobiliers hédoniques — Hauts-de-France (2010–2025)
 
 > Master 1 Statistique & Économétrie — Université de Strasbourg  
 > UE Conduite de Projet — 2025–2026
