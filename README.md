@@ -68,5 +68,7 @@ Le rendu produit un rapport HTML avec toutes les visualisations, et exporte deux
 
 ## Auteurs
 
-
+| Nom | GitHub |
+| BAH Alpha Oumar | [@alpha11oumar-boop]https://github.com/alpha11oumar-boop |
+| DIB Adel | [@adeldib](https://github.com/adeldib |
 — Master 1 APE / SE, Université de Strasbourg*
